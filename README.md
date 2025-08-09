@@ -1,4 +1,4 @@
-## Expedia.com System – Backend Implementation
+## Expedia.com System
 A simplified backend system inspired by Expedia.com, focusing on flight and hotel booking functionalities with integrated payment processing.
 This project demonstrates several software design principles and patterns applied in a travel booking context.
 
@@ -40,4 +40,5 @@ The system follows a layered architecture with clear separation of concerns:
 **Composite Pattern** – ItineraryReservation treats individual and composite reservations uniformly
 
 **Prototype Pattern** – Clone() method for reservation duplication
+
 
