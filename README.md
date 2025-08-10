@@ -37,8 +37,5 @@ The system follows a layered architecture with clear separation of concerns:
 
 **Strategy Pattern** – Multiple payment providers implement a common interface
 
-**Composite Pattern** – ItineraryReservation treats individual and composite reservations uniformly
-
-**Prototype Pattern** – Clone() method for reservation duplication
 
 
